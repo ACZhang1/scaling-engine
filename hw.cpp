@@ -11,6 +11,7 @@ int main(){
 
     //read in n-1 numbers and add them up
     //the difference between the two sums is the missing number
+    int n;
     cin>>n;
     int x = n(n+1)/2;
     int sum = 0;
